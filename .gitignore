@@ -1,0 +1,5 @@
+# Ignore any file without a name and extentsion
+*
+!*.*
+# Don't ignore gitignore
+!.gitgnore
