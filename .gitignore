@@ -1,5 +1,7 @@
 # Ignore any file without a name and extentsion
 *
 !*.*
+# Ignore nimcache
+nimcache/
 # Don't ignore gitignore
 !.gitgnore
